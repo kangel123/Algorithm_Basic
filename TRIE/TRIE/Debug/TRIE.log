@@ -1,0 +1,19 @@
+﻿  trie.c
+C:\Users\k\Desktop\자료\4학년\2학기\알고리즘 기초\과제-알고리즘 기초\TRIE\TRIE\trie.c(86,17): warning C4047: '=': 'long'의 간접 참조 수준이 'char **'과(와) 다릅니다.
+C:\Users\k\Desktop\자료\4학년\2학기\알고리즘 기초\과제-알고리즘 기초\TRIE\TRIE\trie.c(94,55): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\k\Desktop\자료\4학년\2학기\알고리즘 기초\과제-알고리즘 기초\TRIE\TRIE\trie.c(100,6): warning C4101: 'res' :참조되지 않은 지역 변수입니다.
+C:\Users\k\Desktop\자료\4학년\2학기\알고리즘 기초\과제-알고리즘 기초\TRIE\TRIE\trie.c(101,10): warning C4101: 'node_found' :참조되지 않은 지역 변수입니다.
+C:\Users\k\Desktop\자료\4학년\2학기\알고리즘 기초\과제-알고리즘 기초\TRIE\TRIE\trie.c(151,6): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+C:\Users\k\Desktop\자료\4학년\2학기\알고리즘 기초\과제-알고리즘 기초\TRIE\TRIE\trie.c(179,6): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+C:\Users\k\Desktop\자료\4학년\2학기\알고리즘 기초\과제-알고리즘 기초\TRIE\TRIE\trie.c(197,6): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+C:\Users\k\Desktop\자료\4학년\2학기\알고리즘 기초\과제-알고리즘 기초\TRIE\TRIE\trie.c(214,6): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+C:\Users\k\Desktop\자료\4학년\2학기\알고리즘 기초\과제-알고리즘 기초\TRIE\TRIE\trie.c(251,10): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\k\Desktop\자료\4학년\2학기\알고리즘 기초\과제-알고리즘 기초\TRIE\TRIE\trie.c(253,10): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\k\Desktop\자료\4학년\2학기\알고리즘 기초\과제-알고리즘 기초\TRIE\TRIE\trie.c(255,10): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\k\Desktop\자료\4학년\2학기\알고리즘 기초\과제-알고리즘 기초\TRIE\TRIE\trie.c(257,10): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\k\Desktop\자료\4학년\2학기\알고리즘 기초\과제-알고리즘 기초\TRIE\TRIE\trie.c(375,7): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\k\Desktop\자료\4학년\2학기\알고리즘 기초\과제-알고리즘 기초\TRIE\TRIE\trie.c(310,22): warning C4101: 'fpr1' :참조되지 않은 지역 변수입니다.
+C:\Users\k\Desktop\자료\4학년\2학기\알고리즘 기초\과제-알고리즘 기초\TRIE\TRIE\trie.c(304,10): warning C4101: 'command' :참조되지 않은 지역 변수입니다.
+C:\Users\k\Desktop\자료\4학년\2학기\알고리즘 기초\과제-알고리즘 기초\TRIE\TRIE\trie.c(307,16): warning C4101: 'curr' :참조되지 않은 지역 변수입니다.
+C:\Users\k\Desktop\자료\4학년\2학기\알고리즘 기초\과제-알고리즘 기초\TRIE\TRIE\trie.c(307,22): warning C4101: 'prev' :참조되지 않은 지역 변수입니다.
+  TRIE.vcxproj -> C:\Users\k\Desktop\자료\4학년\2학기\알고리즘 기초\과제-알고리즘 기초\TRIE\Debug\TRIE.exe

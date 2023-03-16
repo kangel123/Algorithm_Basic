@@ -1,0 +1,9 @@
+﻿  B_plus_tree.c
+C:\Users\k\Desktop\자료\4학년\2학기\알고리즘 기초\과제-알고리즘 기초\B_plus_tree\B_plus_tree\B_plus_tree.c(67,16): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\k\Desktop\자료\4학년\2학기\알고리즘 기초\과제-알고리즘 기초\B_plus_tree\B_plus_tree\B_plus_tree.c(67,22): warning C4047: '=': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\k\Desktop\자료\4학년\2학기\알고리즘 기초\과제-알고리즘 기초\B_plus_tree\B_plus_tree\B_plus_tree.c(85,20): warning C4013: 'sequential_print'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\k\Desktop\자료\4학년\2학기\알고리즘 기초\과제-알고리즘 기초\B_plus_tree\B_plus_tree\B_plus_tree.c(122,22): warning C4013: 'range_search'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\k\Desktop\자료\4학년\2학기\알고리즘 기초\과제-알고리즘 기초\B_plus_tree\B_plus_tree\B_plus_tree.c(60,6): warning C4101: 'lleng' :참조되지 않은 지역 변수입니다.
+C:\Users\k\Desktop\자료\4학년\2학기\알고리즘 기초\과제-알고리즘 기초\B_plus_tree\B_plus_tree\B_plus_tree.c(136,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\k\Desktop\자료\4학년\2학기\알고리즘 기초\과제-알고리즘 기초\B_plus_tree\B_plus_tree\B_plus_tree.c(241,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  B_plus_tree.vcxproj -> C:\Users\k\Desktop\자료\4학년\2학기\알고리즘 기초\과제-알고리즘 기초\B_plus_tree\Debug\B_plus_tree.exe
